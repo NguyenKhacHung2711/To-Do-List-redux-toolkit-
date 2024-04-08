@@ -1,0 +1,17 @@
+.inputTask {
+    padding: 5px;
+}
+
+.addBtn {
+    background-color: yellowgreen;
+    margin-left: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.delBtn {
+    background-color: rgb(244, 68, 68);
+    margin-left: 2px;
+    padding: 5px;
+    cursor: pointer;
+}
